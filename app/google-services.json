@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "750957091144",
+    "firebase_url": "https://ehut-10c2f.firebaseio.com",
+    "project_id": "ehut-10c2f",
+    "storage_bucket": "ehut-10c2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750957091144:android:0ec48a92dbff68e6153b7d",
+        "android_client_info": {
+          "package_name": "com.gunjon.ehut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750957091144-v1rdv1stgjh89spee0v06o0pe15nrrqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gunjon.ehut",
+            "certificate_hash": "ddb057d0ff6903e382536e77dce403bfe0074b0f"
+          }
+        },
+        {
+          "client_id": "750957091144-j3nieqv4hiaq9p3b4rrdtckctfoev6tv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6myANnIwV4YEt9XlI8ECrjsFzPx4dv6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750957091144-j3nieqv4hiaq9p3b4rrdtckctfoev6tv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
